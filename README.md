@@ -1,12 +1,29 @@
-Pardon my progress....README currently under construction. 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="1000">
+<br><br>
 
-- 👋 Hi, I’m @xandria-hataway
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ 🖤 Hi, I’m *Xandria*
+<br>
+
+As a newly dedicated Data Analyst, I have a passion for translating raw information into actionable insights. With 3 years of experience as a Marketing Assistant and Analyst, I have a proficiency in the use of Google Analytics, PowerBI, SQL, and Tableau; aiding organizations in making informed decisions. I also have past experience as a graphic designer, which has helped in the design of my data visualizations. 
+<br>
+
+My approach to analysis combines a keen eye for detail and a strategic business mindset, My goals are to pull meaningful information from complex datasets, presenting the findings in clear, accessible formats to drive key business decisions. 
+<br>
+
+I am enthusiastic about leveraging my analytical experience to tackle new challenges, eager to explore new opportunities that allow me to apply these data-driven insights to new goals and challenges. 
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+**A Little About Me**:
+<p>
+  <img width="200" alt="hello!" align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e">
+</p>
+
+- 🌸 31 year old, mainly self taught Data Analyst.
+- 🍄 Currenty pursuing my B.S. in Computer Science. I wanted a career change
+- 💞️ I’m looking to collaborate on data visualizations. I am working on improving my Tableau skills
+- 🍓 Pronouns: she/her/hers
+- ✨ Fun fact, I love anime and video games. Let's talk nerdy. 😎
 
 
 <br><br>
@@ -55,7 +72,9 @@ Pardon my progress....README currently under construction.
     ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
     ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
     ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white) 
+<br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 </p>
 
 <br>
