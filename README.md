@@ -7,7 +7,7 @@
 As a newly dedicated Data Analyst, I have a passion for translating raw information into actionable insights. With 3 years of experience as a Marketing Assistant and Analyst, I have a proficiency in the use of Google Analytics, PowerBI, SQL, and Tableau; aiding organizations in making informed decisions. I also have past experience as a graphic designer, which has helped in the design of my data visualizations. 
 <br>
 
-My approach to analysis combines a keen eye for detail and a strategic business mindset, My goals are to pull meaningful information from complex datasets, presenting the findings in clear, accessible formats to drive key business decisions. 
+My approach to analysis combines a keen eye for detail and a strategic business mindset. My goals are to pull meaningful information from complex datasets, presenting the findings in clear, accessible formats to drive key business decisions. 
 <br>
 
 I am enthusiastic about leveraging my analytical experience to tackle new challenges, eager to explore new opportunities that allow me to apply these data-driven insights to new goals and challenges. 
